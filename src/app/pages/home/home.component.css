@@ -1,10 +1,11 @@
 .home-container {
     width: 300px; /* Largura do contêiner de login */
-    margin: 30vh auto; /* Centraliza o contêiner na página */
+    margin: 10vh auto; /* Centraliza o contêiner na página */
     padding: 20px; /* Espaçamento interno */
     background-color: #eeeeee; /* Cor de fundo branca para o contêiner */
     box-shadow: 0 8px 10px rgba(22, 76, 255, 0.884); /* Sombra para o contêiner */
     border-radius: 8px; /* Bordas arredondadas */
+    text-align: center;
 }
 
 button {
